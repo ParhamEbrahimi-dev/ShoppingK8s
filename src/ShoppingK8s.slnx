@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="Shopping.API/Shopping.API.csproj" Id="58d8069f-1b5f-4710-92e0-89a9c7efc667" />
   <Project Path="Shopping.Client/Shopping.Client.csproj" Id="ed844704-a77c-420d-854d-f39677f745e1" />
 </Solution>
